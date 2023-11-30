@@ -93,6 +93,7 @@ main {
 /* Footer */
 footer {
     background-color: orange;
+    display: flex;
 }
 
 /* Media query: Tablets and larger (768px and up) */
